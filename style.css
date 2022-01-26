@@ -31,8 +31,7 @@ header > h1{
 header>p{
     color: var(--cor01);
     margin: auto;
-    padding-top: 14px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
     font-size: 1.3em;
     max-width: 600px;
     text-shadow: 10 10 10 black;
