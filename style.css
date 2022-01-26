@@ -23,31 +23,30 @@ body{
 header > h1{
     font-family: var(--font-androi);
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2.3em;
     color: var(--cor01);
-    margin-bottom: 20px;
+    margin-bottom: 14px;
     text-shadow: 10 10 10 black;
 }
 header>p{
     color: var(--cor01);
     margin: auto;
     padding-bottom: 50px;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-size: 1.3em;
-    max-width: 573px;
+    text-align: center;
+    font-size: 1.2em;
+    max-width: 500px;
     text-shadow: 10 10 10 black;
 }
    
 header {
     background-image:linear-gradient(to bottom, #2FAD4C, #3DE063);
     height: 150px;
-    padding-top: 40px;
+    padding-top: 56px;
 }
 nav{
     background-color: #3DE063 ;
    font-weight: bold;
-    padding: 10px;
+    padding: 12px;
    
 }
 nav > a{
